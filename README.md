@@ -1,6 +1,6 @@
 # fetch_images_from_firebase
 
-A new Flutter project.
+A new Flutter project to fetch images form firebase on real time 
 
 ## Getting Started
 
